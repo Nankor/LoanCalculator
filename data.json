@@ -1,0 +1,17 @@
+[
+  {
+    "zipcode": 95054,
+    "name": "Bank of America",
+    "url": "https://www.bankofamerica.com/"
+  },
+  {
+    "zipcode": 95050,
+    "name": "Citibank",
+    "url": "https://www.citi.com"
+  },
+  {
+    "zipcode": 95051,
+    "name": "Wells Fargo",
+    "url": "https://www.wellsfargo.com/"
+  }
+]
